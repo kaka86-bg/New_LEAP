@@ -1102,26 +1102,6 @@ leap1=[("I totally agree with this opinion.","私たちはこの意見に全面�
 ("A law firm","法律事務所[No.1100]"),
 ("A union member","労働組合員[No.1101]"),
 ("School administration","学校運営[No.1102]"),
-("The Central Intelligence Agency (CIA)","アメリカ中央情報局[No.1083]"),
-("The city council","市議会[No.1084]"),
-("the animal Kingdom","動物界[No.1085]"),
-("The People's Republic of China","中華人民共和国[No.1086]"),
-("The fall of the Roman Empire","ローマ帝国の崩壊[No.1087]"),
-("Give economic aid to developing countries","発展途上国へ経済援助を行う[No.1088]"),
-("The government's educational reform","政府の教育改革[No.1089]"),
-("The foreign minister","外務大臣[No.1090]"),
-("summon a the parliament","議会を招集する[No.1091]"),
-("the issue of the Northern Territories","北方領土問題[No.1092]"),
-("Recent opinion polls","最近の世論調査[No.1093]"),
-("Make a fortune in real estate","不動産で一財産を作る[No.1094]"),
-("Intellectual property","知的財産[No.1095]"),
-("Manage funds effectively","資金を有効に活用する[No.1096]"),
-("Make money on the stock market","株（式市場）でもうける[No.1097]"),
-("Manual labor","肉体労働[No.1098]"),
-("Stop overworking","働きすぎをやめる[No.1099]"),
-("A law firm","法律事務所[No.1100]"),
-("A union member","労働組合員[No.1101]"),
-("School administration","学校運営[No.1102]"),
 ("A secretary to the president.","社長秘書。[No.1103]"),
 ("The editor of the Japan News.","『ジャパンニュース』の編集長。[No.1104]"),
 ("The lawyer met a client yesterday.","その弁護士は依頼人と昨日会った。[No.1105]"),
@@ -1597,5 +1577,6 @@ if 'pdf_q' in st.session_state:
             mime="application/pdf"
 
         )
+
 
 
